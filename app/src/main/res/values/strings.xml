@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UIIn4</string>
+    <string name="text_1">Text composable</string>
+    <string name="text_2.1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="text_3">Image composable</string>
+    <string name="text_4.3">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="text_5">Row composable</string>
+    <string name="text_6.5">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="text_7">Column composable</string>
+    <string name="text_8.7">A layout composable that places its children in a vertical sequence.</string>
+
+</resources>
